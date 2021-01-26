@@ -32,10 +32,8 @@
  ## iOS Tech stack & Open-source libraries
 - [Swift](https://developer.apple.com/swift/)
 - RxSwift, CocoaPods
-- Database
-  - [Realm](https://realm.io/kr/)(★)
-- Design Pattern
-  - MVC (Model - View - Controller)(★)
+- [Realm](https://realm.io/kr/)
+- MVC (Model - View - Controller)
 - [alamofire](https://github.com/Alamofire/Alamofire) - REST APIs
 - [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift)
 - [Material-Components](https://github.com/material-components/material-components-android)
