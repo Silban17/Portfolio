@@ -79,7 +79,7 @@ TDD, Hilt, SwiftUI, Flutter
 | 2013.08 - 2016.10 | <a href="https://play.google.com/store/apps/details?id=com.olleh.spam" target="_blank"><img src="Image/ico_spam.webp" width="80" height="80"></a><br>**KT스팸차단**<br>Android | 1 | 100% | - KT 부가서비스로 사용자가 원하는 메시지 차단<br> **PART**<br>- 전체개발 및 유지보수<br> **Content**<br>- 내부 DB 접근하여 SMS/MMS 추출<br>- Android M 대응<br>- KT 내부 라이브러리 연동**STACK**<br> - `JAVA`,`Eclipse`,`Xml 통신`,`SVN`,`NDK`,`SQLite`,`9-patch` |
 
 ***기타 사이드 프로젝트 진행***<br>
- - 쇼핑몰 앱 : Native 쇼핑몰 앱 제작 <br>
+ - 쇼핑몰 앱 : Native 쇼핑몰 앱 설계 <br>
  - 이명치료 앱 : Engine에서 특정 주파수 제거 후 음악 재생 플레이어<br>
  - 로또 당첨 확인 앱 : 로또당첨시간, 당첨 알림, QR 코드 인식
  - 이미지 앨범 : 카카오 API 연동하여 이미지 검색 후 갤러리 저장 등..
