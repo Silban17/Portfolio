@@ -2,6 +2,23 @@
 # 김기훈 Portfolio - Mobile App Developer
 
 ## 소개
+- 이름: 김기훈
+- 생년월일 : 1991.01.17
+- 경력 : 2013.08 ~ 현재(재직중)
+- 취미: ~~보드~~(코로나), IT Contents Playing(YouTube, Netflix, 밀리의서재, 교보문고 등), ~~라이딩(2019.05-2020.05)~~
+- 병력사항: 2010.02 ~ 2011.12
+- Email: kkh7913@gmail.com, kkh7913@naver.com
+- GitHub: [github.com/Silban17](https://github.com/Silban17)
+- Notion : ***Update ing...***
+
+## 학력 - 학사
+- 인하공전 컴퓨터 시스템과 전문학사(4.22 / 4.5)
+- 원격평생숭실교육원 학점은행제 컴퓨터공학 학사
+
+## 회사경력
+- [BSS Company] : (2018.03 ~ 현재)
+- [Rodaloft] : (2016.10 ~ 2018.03)
+- [BlueCore] : (2013.08 ~ 2016.10)
 
 ## Android Tech stack & Open-source libraries
 - [Kotlin](https://kotlinlang.org/)(★) / [Java](https://www.java.com/)
