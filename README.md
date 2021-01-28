@@ -5,7 +5,7 @@
 - 이름: 김기훈
 - 생년월일 : 1991.01.17
 - 경력 : 2013.08 ~ 현재(재직중)
-- 취미: ~~보드, 운동~~ (코로나), 자전거, IT Contents Playing(YouTube, Netflix, 밀리의서재, 교보문고 등), ~~라이딩(2019.05-2020.05)~~
+- 취미: ~~보드, 운동~~ (코로나), 자전거, IT Contents(YouTube, Netflix, 카카오페이지, 밀리의서재, 교보문고 등), ~~라이딩(2019.05-2020.05)~~
 - 병력사항: 2010.02 ~ 2011.12 육군 만기전역
 - Email: kkh7913@gmail.com, kkh7913@naver.com
 - GitHub: [github.com/Silban17](https://github.com/Silban17)
