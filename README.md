@@ -5,7 +5,7 @@
 - 이름: 김기훈
 - 생년월일 : 1991.01.17
 - 경력 : 2013.08 ~ 현재(재직중)
-- 취미: 보드, 운동 (코로나), 자전거, OTT(YouTube, Netflix, 밀리의서재 등), ~~라이딩(2019.05-2020.05)~~
+- 취미: 보드, 운동, 자전거, ~~라이딩(2019.05-2020.05)~~
 - 병력사항: 2010.02 ~ 2011.12 육군 만기전역
 - Email: kkh7913@gmail.com, kkh7913@naver.com
 - GitHub: [github.com/Silban17](https://github.com/Silban17)
@@ -71,7 +71,9 @@ Flutter, Android Compose
  **Google Play / AppStore / OneStore 배포**
  | 기간 | 앱 | 인원 | 참여도 | 내용 |
  | :-- |:-:| :-: |  :-:  |:-- |
-| 2020.06 - 진행중 | <a href="https://play.google.com/store/apps/details?id=com.bss.sports" target="_blank"><img src="Image/ico_named.png" width="80" height="80"></a><br>**네임드스코어**<br>Android | 1 -> 2 | 90% | 전세계 종목별, 경기별 실시간 상황 중계<br>**PART**<br>  - 설계 및 리드개발<br> **Content**<br>- 스포츠 종목 별 실시간 상황 리스트 제공(N스포츠 Renewal)<br>- 종목별 상세 데이터 제공&nbsp;&nbsp;- 개인 별 맞춤 알림<br>- 실시간 채팅&nbsp;&nbsp;- 스크린샷 및 공유<br>**STACK**<br>- `Kotlin`, `MVVM`, `AAC`, `DI`,`Room`,`OkHttp`,<br>`Retrofit2`,`Firebase`,`WebSocket`,`Glide`,`spotless` |
+| 2022.03 - 진행중(배포 전, 22년 9월 초 배포 예정) | <a href="https://play.google.com/store/apps/details?id=com.bss.champscore" target="_blank"><img src="Image/ico_champscore.png" width="80" height="80"></a><br>**챔프스코어**<br>iOS | 1 | 100% | 전세계 종목별, 경기별 실시간 상황 중계<br>**PART**<br>  - 설계 및 리드개발<br> **Content**<br>- 스포츠 종목 별 실시간 상황 리스트 제공(Android 챔프스코어와 기능 동일)<br>- 종목별 상세 데이터 제공&nbsp;&nbsp;- 개인 별 맞춤 알림<br>- 실시간 채팅&nbsp;&nbsp;- 스크린샷 및 공유<br>**STACK**<br>- `SwiftUI`, `MVVM`, `Combine`,`UserDefault`,`Alamofire`,`Kingfisher`,`Realm`,`Starscream` |
+| 2021.06 - 진행중 | <a href="https://play.google.com/store/apps/details?id=com.bss.champscore" target="_blank"><img src="Image/ico_champscore.png" width="80" height="80"></a><br>**챔프스코어**<br>Android | 1 -> 2 | 90% | 전세계 종목별, 경기별 실시간 상황 중계<br>**PART**<br>  - 설계 및 리드개발<br> **Content**<br>- 네임드스코어 Renewal<br>- 디자인 구성 변경(Discord)<br>- FCM 고도화&nbsp;&nbsp;- 스크린샷 및 공유<br>**STACK**<br>- `Kotlin`, `MVVM`, `AAC`, `Koin -> Hilt`,`Room`,`OkHttp`,<br>`Retrofit2`,`Firebase`,`WebSocket`,`Glide` | 
+| 2020.06 - 2021.06 | <a href="https://play.google.com/store/apps/details?id=com.bss.sports" target="_blank"><img src="Image/ico_named.png" width="80" height="80"></a><br>**네임드스코어**<br>Android | 1 -> 2 | 90% | 전세계 종목별, 경기별 실시간 상황 중계<br>**PART**<br>  - 설계 및 리드개발<br> **Content**<br>- 스포츠 종목 별 실시간 상황 리스트 제공(N스포츠 Renewal)<br>- 종목별 상세 데이터 제공&nbsp;&nbsp;- 개인 별 맞춤 알림<br>- 실시간 채팅&nbsp;&nbsp;- 스크린샷 및 공유<br>**STACK**<br>- `Kotlin`, `MVVM`, `AAC`, `DI`,`Room`,`OkHttp`,<br>`Retrofit2`,`Firebase`,`WebSocket`,`Glide`,`spotless` |
 | 2019.06 - 2019.12 | <img src="Image/ico_bitmeet.png" width="80" height="80"><br>**Bitmeet**<br>Android | 1 | 100% | 글로벌 100여개 거래소 정보 및 암호화폐 정보 실시간 제공<br>**PART**<br>  - 100% 개발<br> **Content**<br>- MobileWebView + FCM + JavaScript<br>- 소셜로그인&nbsp;&nbsp;- 개인 별 맞춤 알림<br>- ~~현재 서비스 중단~~<br>**STACK**<br>- `Kotlin`, `MVC`, `Firebase`,`Javascript`,`CSS` |
 | 2016.12 - 2020.12 | <a href="https://onesto.re/0000712067" target="_blank"><img src="Image/ico_nsports.png" width="80" height="80"></a><br>**N스포츠**<br>Android / iOS | 6 -> 4 -><br> 2 -> 1 | 75% | - 전세계 종목별, 경기별 실시간 상황 중계 <br> **PART**<br>- 구조설계 및 신규 기능개발, <b>유지보수</b> Android / iOS<br> **Content**<br>- 스포츠 종목 별 실시간 상황 리스트 제공<br>- 종목별 상세 데이터 제공<br>- 개인 별 맞춤 알림<br>- 실시간 채팅<br>**STACK**<br> - `Kotlin`,`JAVA`,`Swift4`,`MVC`,`Realm`,<br>`OkHttp`,`Retrofit2`,`Firebase`,`WebSocket`,`Glide`,`EventBus` |
 | 2016.01 - 2016.06 |<img src="Image/myArs.png" width="80" height="80"><br>**MyARS**<br>Android | 1 | 100% | - Kt 114 자동 응답 문자 서비스<br> **PART**<br>- 전체 개발 + Design<br> **Content**<br>- Socket 통신 및 자체 문자 발송<br>- 디자이너 없이 자체 개발<br>- 100개 동시 처리<br>- SQLite 저장 내역<br>**STACK**<br> - `Socket`,`MMS+SMS` |
